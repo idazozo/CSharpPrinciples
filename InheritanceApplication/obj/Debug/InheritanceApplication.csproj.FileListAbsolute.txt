@@ -1,0 +1,5 @@
+C:\Users\shenshuh\git\CSharpPrinciples\InheritanceApplication\bin\Debug\InheritanceApplication.exe.config
+C:\Users\shenshuh\git\CSharpPrinciples\InheritanceApplication\bin\Debug\InheritanceApplication.exe
+C:\Users\shenshuh\git\CSharpPrinciples\InheritanceApplication\bin\Debug\InheritanceApplication.pdb
+C:\Users\shenshuh\git\CSharpPrinciples\InheritanceApplication\obj\Debug\InheritanceApplication.exe
+C:\Users\shenshuh\git\CSharpPrinciples\InheritanceApplication\obj\Debug\InheritanceApplication.pdb

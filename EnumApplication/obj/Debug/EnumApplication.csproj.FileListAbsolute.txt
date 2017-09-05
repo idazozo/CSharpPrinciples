@@ -1,0 +1,6 @@
+C:\Users\shenshuh\git\CSharpPrinciples\EnumApplication\bin\Debug\EnumApplication.exe.config
+C:\Users\shenshuh\git\CSharpPrinciples\EnumApplication\bin\Debug\EnumApplication.exe
+C:\Users\shenshuh\git\CSharpPrinciples\EnumApplication\bin\Debug\EnumApplication.pdb
+C:\Users\shenshuh\git\CSharpPrinciples\EnumApplication\obj\Debug\EnumApplication.csprojResolveAssemblyReference.cache
+C:\Users\shenshuh\git\CSharpPrinciples\EnumApplication\obj\Debug\EnumApplication.exe
+C:\Users\shenshuh\git\CSharpPrinciples\EnumApplication\obj\Debug\EnumApplication.pdb

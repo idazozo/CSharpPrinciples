@@ -1,0 +1,6 @@
+C:\Users\shenshuh\git\CSharpPrinciples\DestructorTest\bin\Debug\DestructorTest.exe.config
+C:\Users\shenshuh\git\CSharpPrinciples\DestructorTest\bin\Debug\DestructorTest.exe
+C:\Users\shenshuh\git\CSharpPrinciples\DestructorTest\bin\Debug\DestructorTest.pdb
+C:\Users\shenshuh\git\CSharpPrinciples\DestructorTest\obj\Debug\DestructorTest.csprojResolveAssemblyReference.cache
+C:\Users\shenshuh\git\CSharpPrinciples\DestructorTest\obj\Debug\DestructorTest.exe
+C:\Users\shenshuh\git\CSharpPrinciples\DestructorTest\obj\Debug\DestructorTest.pdb
