@@ -1,0 +1,5 @@
+\\ldndata05.sbintldirectory.com\userdata$\shenshuh\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Release\HelloWorld.exe.config
+\\ldndata05.sbintldirectory.com\userdata$\shenshuh\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Release\HelloWorld.exe
+\\ldndata05.sbintldirectory.com\userdata$\shenshuh\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Release\HelloWorld.pdb
+\\ldndata05.sbintldirectory.com\userdata$\shenshuh\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Release\HelloWorld.exe
+\\ldndata05.sbintldirectory.com\userdata$\shenshuh\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Release\HelloWorld.pdb

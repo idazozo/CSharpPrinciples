@@ -1,0 +1,5 @@
+\\ldndata05.sbintldirectory.com\userdata$\shenshuh\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication2\bin\Debug\Rectangle.exe.config
+\\ldndata05.sbintldirectory.com\userdata$\shenshuh\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication2\bin\Debug\Rectangle.exe
+\\ldndata05.sbintldirectory.com\userdata$\shenshuh\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication2\bin\Debug\Rectangle.pdb
+\\ldndata05.sbintldirectory.com\userdata$\shenshuh\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication2\obj\Debug\Rectangle.exe
+\\ldndata05.sbintldirectory.com\userdata$\shenshuh\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication2\obj\Debug\Rectangle.pdb

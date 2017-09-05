@@ -1,0 +1,9 @@
+\\ldndata05.sbintldirectory.com\userdata$\shenshuh\documents\visual studio 2015\Projects\ConsoleApplication1\StringApplication\bin\Debug\StringApplication.exe.config
+\\ldndata05.sbintldirectory.com\userdata$\shenshuh\documents\visual studio 2015\Projects\ConsoleApplication1\StringApplication\bin\Debug\StringApplication.exe
+\\ldndata05.sbintldirectory.com\userdata$\shenshuh\documents\visual studio 2015\Projects\ConsoleApplication1\StringApplication\bin\Debug\StringApplication.pdb
+\\ldndata05.sbintldirectory.com\userdata$\shenshuh\documents\visual studio 2015\Projects\ConsoleApplication1\StringApplication\obj\Debug\StringApplication.csprojResolveAssemblyReference.cache
+\\ldndata05.sbintldirectory.com\userdata$\shenshuh\documents\visual studio 2015\Projects\ConsoleApplication1\StringApplication\obj\Debug\StringApplication.exe
+\\ldndata05.sbintldirectory.com\userdata$\shenshuh\documents\visual studio 2015\Projects\ConsoleApplication1\StringApplication\obj\Debug\StringApplication.pdb
+C:\Users\shenshuh\git\ConsoleApplication1\StringApplication\bin\Debug\StringApplication.exe.config
+C:\Users\shenshuh\git\ConsoleApplication1\StringApplication\obj\Debug\StringApplication.exe
+C:\Users\shenshuh\git\ConsoleApplication1\StringApplication\obj\Debug\StringApplication.pdb

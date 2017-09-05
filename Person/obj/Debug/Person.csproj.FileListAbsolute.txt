@@ -1,0 +1,6 @@
+\\ldndata05.sbintldirectory.com\userdata$\shenshuh\documents\visual studio 2015\Projects\ConsoleApplication1\Person\bin\Debug\Person.exe.config
+\\ldndata05.sbintldirectory.com\userdata$\shenshuh\documents\visual studio 2015\Projects\ConsoleApplication1\Person\bin\Debug\Person.exe
+\\ldndata05.sbintldirectory.com\userdata$\shenshuh\documents\visual studio 2015\Projects\ConsoleApplication1\Person\bin\Debug\Person.pdb
+\\ldndata05.sbintldirectory.com\userdata$\shenshuh\documents\visual studio 2015\Projects\ConsoleApplication1\Person\obj\Debug\Person.csprojResolveAssemblyReference.cache
+\\ldndata05.sbintldirectory.com\userdata$\shenshuh\documents\visual studio 2015\Projects\ConsoleApplication1\Person\obj\Debug\Person.exe
+\\ldndata05.sbintldirectory.com\userdata$\shenshuh\documents\visual studio 2015\Projects\ConsoleApplication1\Person\obj\Debug\Person.pdb

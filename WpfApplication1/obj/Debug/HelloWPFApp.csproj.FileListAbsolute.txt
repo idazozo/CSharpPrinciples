@@ -1,0 +1,13 @@
+\\ldndata05.sbintldirectory.com\userdata$\shenshuh\documents\visual studio 2015\Projects\ConsoleApplication1\WpfApplication1\bin\Debug\HelloWPFApp.exe.config
+\\ldndata05.sbintldirectory.com\userdata$\shenshuh\documents\visual studio 2015\Projects\ConsoleApplication1\WpfApplication1\bin\Debug\HelloWPFApp.exe
+\\ldndata05.sbintldirectory.com\userdata$\shenshuh\documents\visual studio 2015\Projects\ConsoleApplication1\WpfApplication1\bin\Debug\HelloWPFApp.pdb
+\\ldndata05.sbintldirectory.com\userdata$\shenshuh\documents\visual studio 2015\Projects\ConsoleApplication1\WpfApplication1\obj\Debug\Greetings.g.cs
+\\ldndata05.sbintldirectory.com\userdata$\shenshuh\documents\visual studio 2015\Projects\ConsoleApplication1\WpfApplication1\obj\Debug\App.g.cs
+\\ldndata05.sbintldirectory.com\userdata$\shenshuh\documents\visual studio 2015\Projects\ConsoleApplication1\WpfApplication1\obj\Debug\HelloWPFApp_MarkupCompile.cache
+\\ldndata05.sbintldirectory.com\userdata$\shenshuh\documents\visual studio 2015\Projects\ConsoleApplication1\WpfApplication1\obj\Debug\HelloWPFApp_MarkupCompile.lref
+\\ldndata05.sbintldirectory.com\userdata$\shenshuh\documents\visual studio 2015\Projects\ConsoleApplication1\WpfApplication1\obj\Debug\Greetings.baml
+\\ldndata05.sbintldirectory.com\userdata$\shenshuh\documents\visual studio 2015\Projects\ConsoleApplication1\WpfApplication1\obj\Debug\HelloWPFApp.g.resources
+\\ldndata05.sbintldirectory.com\userdata$\shenshuh\documents\visual studio 2015\Projects\ConsoleApplication1\WpfApplication1\obj\Debug\HelloWPFApp.Properties.Resources.resources
+\\ldndata05.sbintldirectory.com\userdata$\shenshuh\documents\visual studio 2015\Projects\ConsoleApplication1\WpfApplication1\obj\Debug\HelloWPFApp.csproj.GenerateResource.Cache
+\\ldndata05.sbintldirectory.com\userdata$\shenshuh\documents\visual studio 2015\Projects\ConsoleApplication1\WpfApplication1\obj\Debug\HelloWPFApp.exe
+\\ldndata05.sbintldirectory.com\userdata$\shenshuh\documents\visual studio 2015\Projects\ConsoleApplication1\WpfApplication1\obj\Debug\HelloWPFApp.pdb

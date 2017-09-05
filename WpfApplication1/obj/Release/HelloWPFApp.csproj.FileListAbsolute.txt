@@ -1,0 +1,15 @@
+\\ldndata05.sbintldirectory.com\userdata$\shenshuh\documents\visual studio 2015\Projects\ConsoleApplication1\WpfApplication1\bin\Release\WpfApplication1.exe.config
+\\ldndata05.sbintldirectory.com\userdata$\shenshuh\documents\visual studio 2015\Projects\ConsoleApplication1\WpfApplication1\bin\Release\WpfApplication1.exe
+\\ldndata05.sbintldirectory.com\userdata$\shenshuh\documents\visual studio 2015\Projects\ConsoleApplication1\WpfApplication1\bin\Release\WpfApplication1.pdb
+\\ldndata05.sbintldirectory.com\userdata$\shenshuh\documents\visual studio 2015\Projects\ConsoleApplication1\WpfApplication1\obj\Release\HelloWPFApp.csprojResolveAssemblyReference.cache
+\\ldndata05.sbintldirectory.com\userdata$\shenshuh\documents\visual studio 2015\Projects\ConsoleApplication1\WpfApplication1\obj\Release\Greetings.g.cs
+\\ldndata05.sbintldirectory.com\userdata$\shenshuh\documents\visual studio 2015\Projects\ConsoleApplication1\WpfApplication1\obj\Release\App.g.cs
+\\ldndata05.sbintldirectory.com\userdata$\shenshuh\documents\visual studio 2015\Projects\ConsoleApplication1\WpfApplication1\obj\Release\WpfApplication1_MarkupCompile.cache
+\\ldndata05.sbintldirectory.com\userdata$\shenshuh\documents\visual studio 2015\Projects\ConsoleApplication1\WpfApplication1\obj\Release\WpfApplication1_MarkupCompile.lref
+\\ldndata05.sbintldirectory.com\userdata$\shenshuh\documents\visual studio 2015\Projects\ConsoleApplication1\WpfApplication1\obj\Release\Greetings.baml
+\\ldndata05.sbintldirectory.com\userdata$\shenshuh\documents\visual studio 2015\Projects\ConsoleApplication1\WpfApplication1\obj\Release\WpfApplication1.g.resources
+\\ldndata05.sbintldirectory.com\userdata$\shenshuh\documents\visual studio 2015\Projects\ConsoleApplication1\WpfApplication1\obj\Release\WpfApplication1.Properties.Resources.resources
+\\ldndata05.sbintldirectory.com\userdata$\shenshuh\documents\visual studio 2015\Projects\ConsoleApplication1\WpfApplication1\obj\Release\HelloWPFApp.csproj.GenerateResource.Cache
+\\ldndata05.sbintldirectory.com\userdata$\shenshuh\documents\visual studio 2015\Projects\ConsoleApplication1\WpfApplication1\obj\Release\WpfApplication1.exe
+\\ldndata05.sbintldirectory.com\userdata$\shenshuh\documents\visual studio 2015\Projects\ConsoleApplication1\WpfApplication1\obj\Release\WpfApplication1.pdb
+\\ldndata05.sbintldirectory.com\userdata$\shenshuh\documents\visual studio 2015\Projects\ConsoleApplication1\WpfApplication1\bin\Release\HelloWPFApp.exe.config
