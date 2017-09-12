@@ -1,0 +1,6 @@
+C:\Users\shenshuh\git\CSharpPrinciples\PreprocessorDAppl\bin\Debug\PreprocessorDAppl.exe.config
+C:\Users\shenshuh\git\CSharpPrinciples\PreprocessorDAppl\bin\Debug\PreprocessorDAppl.exe
+C:\Users\shenshuh\git\CSharpPrinciples\PreprocessorDAppl\bin\Debug\PreprocessorDAppl.pdb
+C:\Users\shenshuh\git\CSharpPrinciples\PreprocessorDAppl\obj\Debug\PreprocessorDAppl.csprojResolveAssemblyReference.cache
+C:\Users\shenshuh\git\CSharpPrinciples\PreprocessorDAppl\obj\Debug\PreprocessorDAppl.exe
+C:\Users\shenshuh\git\CSharpPrinciples\PreprocessorDAppl\obj\Debug\PreprocessorDAppl.pdb

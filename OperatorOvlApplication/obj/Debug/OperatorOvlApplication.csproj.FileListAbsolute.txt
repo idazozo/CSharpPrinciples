@@ -1,0 +1,6 @@
+C:\Users\shenshuh\git\CSharpPrinciples\OperatorOvlApplication\bin\Debug\OperatorOvlApplication.exe.config
+C:\Users\shenshuh\git\CSharpPrinciples\OperatorOvlApplication\bin\Debug\OperatorOvlApplication.exe
+C:\Users\shenshuh\git\CSharpPrinciples\OperatorOvlApplication\bin\Debug\OperatorOvlApplication.pdb
+C:\Users\shenshuh\git\CSharpPrinciples\OperatorOvlApplication\obj\Debug\OperatorOvlApplication.csprojResolveAssemblyReference.cache
+C:\Users\shenshuh\git\CSharpPrinciples\OperatorOvlApplication\obj\Debug\OperatorOvlApplication.exe
+C:\Users\shenshuh\git\CSharpPrinciples\OperatorOvlApplication\obj\Debug\OperatorOvlApplication.pdb

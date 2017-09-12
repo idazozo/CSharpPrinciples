@@ -3,3 +3,4 @@ C:\Users\shenshuh\git\CSharpPrinciples\InheritanceApplication\bin\Debug\Inherita
 C:\Users\shenshuh\git\CSharpPrinciples\InheritanceApplication\bin\Debug\InheritanceApplication.pdb
 C:\Users\shenshuh\git\CSharpPrinciples\InheritanceApplication\obj\Debug\InheritanceApplication.exe
 C:\Users\shenshuh\git\CSharpPrinciples\InheritanceApplication\obj\Debug\InheritanceApplication.pdb
+C:\Users\shenshuh\git\CSharpPrinciples\InheritanceApplication\obj\Debug\InheritanceApplication.csprojResolveAssemblyReference.cache

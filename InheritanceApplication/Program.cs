@@ -34,34 +34,42 @@ namespace InheritanceApplication
             Console.WriteLine("Height: {0}", height);
             Console.WriteLine("Area: {0}", GetArea());
         }
+    }
 
-        class Tabletop: Rectangle
+    // C# does not support multiple inheritance. However, you can use interfaces to 
+    // implement multiple inheritance.
+
+    // Base class PaintCost
+    public interface PaintCost
+    {
+        double GetCost();
+    }
+
+    // Derived class
+    class Tabletop : Rectangle, PaintCost
+    {
+        private double cost;
+        public Tabletop(double l, double w) : base(l, w)
+        { }
+        public double GetCost()
         {
-            private double cost;
-            public Tabletop(double l, double w) : base(l, w)
-            { }
-            public double GetCost()
-            {
-                double cost;
-                cost = GetArea() * 70;
-                return cost;
-            }
-            public void Display()
-            {
-                base.Display();
-                Console.WriteLine("Cost: {0}", GetCost());
-            }
+            return GetArea() * 70;
         }
-
-
-        class RectangleTester
+        public void Display()
         {
-            static void Main(string[] args)
-            {
-                Tabletop t = new Tabletop(4.5, 7.5);
-                t.Display();
-                Console.ReadKey();
-            }
-        }       
+            base.Display();
+            Console.WriteLine("Total paint cost: ${0}", GetCost());
+        }
+    }
+
+
+    class RectangleTester
+    {
+        static void Main(string[] args)
+        {
+            Tabletop t = new Tabletop(4.5, 7.5);
+            t.Display();
+            Console.ReadKey();
+        }
     }
 }

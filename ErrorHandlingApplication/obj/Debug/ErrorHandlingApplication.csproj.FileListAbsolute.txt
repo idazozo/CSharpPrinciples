@@ -1,0 +1,6 @@
+C:\Users\shenshuh\git\CSharpPrinciples\ErrorHandlingApplication\bin\Debug\ErrorHandlingApplication.exe.config
+C:\Users\shenshuh\git\CSharpPrinciples\ErrorHandlingApplication\bin\Debug\ErrorHandlingApplication.exe
+C:\Users\shenshuh\git\CSharpPrinciples\ErrorHandlingApplication\bin\Debug\ErrorHandlingApplication.pdb
+C:\Users\shenshuh\git\CSharpPrinciples\ErrorHandlingApplication\obj\Debug\ErrorHandlingApplication.csprojResolveAssemblyReference.cache
+C:\Users\shenshuh\git\CSharpPrinciples\ErrorHandlingApplication\obj\Debug\ErrorHandlingApplication.exe
+C:\Users\shenshuh\git\CSharpPrinciples\ErrorHandlingApplication\obj\Debug\ErrorHandlingApplication.pdb
