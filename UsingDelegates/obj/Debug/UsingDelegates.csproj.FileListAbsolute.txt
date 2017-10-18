@@ -1,0 +1,5 @@
+C:\Users\shenshuh\git\CSharpPrinciples\UsingDelegates\bin\Debug\UsingDelegates.exe.config
+C:\Users\shenshuh\git\CSharpPrinciples\UsingDelegates\bin\Debug\UsingDelegates.exe
+C:\Users\shenshuh\git\CSharpPrinciples\UsingDelegates\bin\Debug\UsingDelegates.pdb
+C:\Users\shenshuh\git\CSharpPrinciples\UsingDelegates\obj\Debug\UsingDelegates.exe
+C:\Users\shenshuh\git\CSharpPrinciples\UsingDelegates\obj\Debug\UsingDelegates.pdb
