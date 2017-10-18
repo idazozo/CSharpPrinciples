@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserDefinedExeption", "User
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileIOApplication", "FileIOApplication\FileIOApplication.csproj", "{1FA3B0C1-7FDC-453E-B01A-8838F8735B02}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexerApplication", "IndexerApplication\IndexerApplication.csproj", "{7EB0CD90-10EF-4E6B-90B1-61968C8AB769}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -107,6 +109,10 @@ Global
 		{1FA3B0C1-7FDC-453E-B01A-8838F8735B02}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1FA3B0C1-7FDC-453E-B01A-8838F8735B02}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1FA3B0C1-7FDC-453E-B01A-8838F8735B02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EB0CD90-10EF-4E6B-90B1-61968C8AB769}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EB0CD90-10EF-4E6B-90B1-61968C8AB769}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EB0CD90-10EF-4E6B-90B1-61968C8AB769}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EB0CD90-10EF-4E6B-90B1-61968C8AB769}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -127,5 +133,6 @@ Global
 		{D885B7D0-6A1E-4E55-8F29-B7D3CAC424EA} = {E7F535C8-5F62-4FE7-99DC-FA7CC8607E34}
 		{F483D9B3-0633-464D-97F0-5EBAF5929A61} = {E7F535C8-5F62-4FE7-99DC-FA7CC8607E34}
 		{1FA3B0C1-7FDC-453E-B01A-8838F8735B02} = {E7F535C8-5F62-4FE7-99DC-FA7CC8607E34}
+		{7EB0CD90-10EF-4E6B-90B1-61968C8AB769} = {E7F535C8-5F62-4FE7-99DC-FA7CC8607E34}
 	EndGlobalSection
 EndGlobal

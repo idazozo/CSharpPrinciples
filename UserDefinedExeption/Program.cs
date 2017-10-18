@@ -21,7 +21,7 @@ namespace UserDefinedExeption
             temperature = temp;
         }
         
-        public void showTemp()
+        public void showTemp()      // User defined exception
         {
             if (temperature == 0)
             {
